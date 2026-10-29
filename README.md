@@ -1,9 +1,8 @@
 # TP2 : Docker et Docker Compose
 
-**Module :** DevOps 2026-27
-**Étudiante :** Lina NASRI
-**Dépôt :** https://github.com/linaa50/mern-app
-
+- **Module :** DevOps 2026-27
+- **Étudiante :** Lina NASRI
+- **Dépôt :** https://github.com/linaa50/mern-app
 ## 1. Objectifs
 
 - Utiliser Docker pour containeriser des applications.
